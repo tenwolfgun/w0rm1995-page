@@ -7,6 +7,14 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+        <a
+          className="App-link"
+          href="https://github.com/w0rm1995?tab=repositories"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          GITHUB
+        </a>
       </header>
     </div>
   );
